@@ -10279,20 +10279,27 @@ body {
 
 @media (max-width: 768px) {
   .product-shopnow{
+
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     margin-top: -5rem;
 
+
   }
 
-  .cherrymobile{
-    margin-top: -4rem;
-  }
 
   .product-descrip{
     margin-top: -2rem;
+  }
+
+  .featuredproduct{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: -3rem;
+    margin-bottom: -3rem;
   }
 
 
