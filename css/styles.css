@@ -10305,7 +10305,12 @@ body {
     margin-right: auto;
     margin-top: 2rem;
     margin-left: -5rem;
-    margin-bottom: 3rem;
+    margin-bottom: 0rem;
+  }
+
+  .cherrymobile{
+    margin-top: -2rem;
+
   }
 
 
