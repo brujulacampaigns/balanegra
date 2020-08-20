@@ -569,6 +569,12 @@ ul.share-buttons .sr-only{
   overflow: hidden;
 }
 
+.nav-logo{
+  display: inline;
+  width: auto;
+  height: 100px;
+}
+
 
 @media (min-width: 576px) {
   .container {
